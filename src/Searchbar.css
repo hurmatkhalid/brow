@@ -1,0 +1,41 @@
+.input-wrapper{
+    background-color: #fff;
+    width: 30%;
+    border-radius: 30px;
+    height: 3.5rem;
+    padding: 0 15px;
+    display: flex;
+    align-items: center;
+    margin: 1% 0% 0% 65%;
+}
+.search-icon-div{
+    width: 30%;
+    height: 2.5rem;
+    background-color: #202020;
+    border-radius: 50px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.search-icon-div a{
+    text-decoration: none;
+}
+input{
+    background-color: transparent;
+    border: none;
+    height: 100%;
+    font-size: 1.05rem;
+    width: 100%;
+    margin-left: 5px;
+    outline: none;
+    padding: 5px;
+}
+input::placeholder{
+    text-align: center;
+    color: #202020;
+}
+#search-icon{
+    color: #fff;
+    font-size: 2rem;
+    margin: 4% 0% 0% 0%;
+}
