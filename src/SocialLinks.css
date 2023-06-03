@@ -1,0 +1,19 @@
+.header-link{
+    display: flex;
+    margin: -4.3% 0 0 50%;
+
+}
+.header-link a{
+    color: #fff;
+    padding: 10px;
+    transition: 0.3s ease;
+}
+#twitter:hover{
+    color: #1DA1F2;
+}
+#youtube:hover{
+    color: #FF0000;
+}
+#whatsapp:hover{
+    color: #25D366;
+}
