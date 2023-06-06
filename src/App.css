@@ -1,7 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Anton&family=Poppins&display=swap');
 *{
   font-family: 'Poppins';
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+}
+body{
+  background: url("https://i.pinimg.com/originals/c7/24/ee/c724ee62aeeb141e1da52ff3415582f6.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow-x: hidden;
+}
+
+::-webkit-scrollbar{
+  display: none;
 }
