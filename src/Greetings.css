@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+h1{
+    font-family: 'Anton', sans-serif;
+    color: white;
+    font-size: 6.25rem;
+    align-items: center;
+    text-align: center;
+    margin: 5% 0 0 0;
+}
+.greettext{
+    color: white;
+    font-size: 2.25rem;
+    align-items: center;
+    text-align: center;
+
+}

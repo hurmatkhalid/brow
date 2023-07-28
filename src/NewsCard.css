@@ -1,0 +1,47 @@
+.card-box{
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center ;
+}
+.cardbox{
+    width: 20%;
+    background-color: #ffffff;
+    color: #202020;
+    border: 2px solid #000;
+    border-radius: 10px;
+    height: 250px;
+    box-shadow: 8px 8px 1px 0px rgb(0, 0, 0);
+    margin: 1%;
+}
+.cardbox-overlay{
+    padding: 15px;
+}
+.cardbox img{
+    width: 100%;
+}
+.cardboxBtn{
+    margin-bottom: 91px;
+}
+.Btn{
+    text-decoration: none;
+    margin: 0 0 30% 0;
+}
+.btn{
+    width: 55%;
+    height: 35px;
+    border: none ;
+    border-radius: 3px;
+    background-color: #202020;
+    color: #fff;
+    font-size: 0.8rem;
+    transition: 0.5s ease;
+}
+.btn:hover{
+    background-color: #ffffff;
+    border: 2px solid #000000;
+    color: #000000;
+
+}
