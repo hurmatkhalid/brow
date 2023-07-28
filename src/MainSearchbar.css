@@ -1,0 +1,42 @@
+.input-wrap{
+    background-color: #fff;
+    width: 50%;
+    border-radius: 30px;
+    height: 3.5rem;
+    padding: 0 15px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    margin: 5% auto;
+}
+.search-icondiv{
+    width: 30%;
+    height: 2.5rem;
+    background-color: #202020;
+    border-radius: 50px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.search-icondiv a{
+    text-decoration: none;
+    color: #fff;
+    align-items: center;
+    justify-content: center;
+    line-height: 2.5;
+}
+input{
+    background-color: transparent;
+    border: none;
+    height: 100%;
+    font-size: 1.05rem;
+    width: 100%;
+    margin-left: 5px;
+    outline: none;
+    padding: 5px;
+}
+input::placeholder{
+    text-align: center;
+    color: #202020;
+}
